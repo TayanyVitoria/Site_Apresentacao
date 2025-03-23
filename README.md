@@ -4,4 +4,5 @@
  - HTML
  - CSS
  - PYTHON
+ - JAVASCRIP
  - MYSQL (para a criação do banco de dados)
